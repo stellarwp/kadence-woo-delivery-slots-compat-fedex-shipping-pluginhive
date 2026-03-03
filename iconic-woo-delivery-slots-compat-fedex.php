@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Delivery Slots by Iconic [WooCommerce FedEx Shipping Plugin with Print Label]
+ * Plugin Name:     WooCommerce Delivery Slots by Kadence [WooCommerce FedEx Shipping Plugin with Print Label]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description:     Compatibility between WooCommerce Delivery Slots by Iconic and WooCommerce FedEx Shipping Plugin with Print Label by PluginHive.
- * Author:          Iconic
- * Author URI:      https://iconicwp.com/
+ * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and WooCommerce FedEx Shipping Plugin with Print Label by PluginHive.
+ * Author:          Kadence
+ * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-woo-delivery-slots-compat-fedex-shipping-pluginhive
  * Domain Path:     /languages
  * Version:         0.1.0
